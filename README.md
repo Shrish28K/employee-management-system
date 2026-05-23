@@ -19,3 +19,9 @@ A CLI-based Employee Management System built using Python and SQLite with suppor
 - SQLite3
 - bcrypt
 - tabulate
+
+## Installation
+
+```bash
+pip install -r requirements.txt
+```
